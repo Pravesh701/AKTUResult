@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AKTURESULT</string>
+    <string name="action_settings">Settings</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1835641211341416/8325134582</string>
+    <string name="admob_interstitial_id">ca-app-pub-1835641211341416/9866760044
+</string>
+    <string name="video_ad_unit_id">ca-app-pub-1835641211341416/6189925838</string>
+
+</resources>
